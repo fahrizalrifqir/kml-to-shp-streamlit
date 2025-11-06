@@ -1,0 +1,6 @@
+streamlit>=1.20
+geopandas
+fiona
+pyproj
+shapely
+requests
